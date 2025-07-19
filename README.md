@@ -30,7 +30,7 @@ sudo apt update && sudo apt install -y smbclient
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rpc-null-checker.git
+git clone https://github.com/JacobDavidAlcock/rpc-null-checker.git
 cd rpc-null-checker
 ```
 
