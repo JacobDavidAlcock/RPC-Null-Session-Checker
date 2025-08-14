@@ -66,4 +66,4 @@ This tool is intended for use in authorized security testing and network adminis
 
 ## License
 
-This project is licensed under the MIT License. You can use the same `LICENSE` file from the VNC checker repository.
+This project is licensed under the MIT License.
