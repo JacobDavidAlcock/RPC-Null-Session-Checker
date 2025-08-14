@@ -30,8 +30,8 @@ sudo apt update && sudo apt install -y smbclient
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JacobDavidAlcock/rpc-null-checker.git
-cd rpc-null-checker
+git clone https://github.com/JacobDavidAlcock/RPC-Null-Session-Checker.git
+cd RPC-Null-Session-Checker
 ```
 
 ### 2. Make the Script Executable
